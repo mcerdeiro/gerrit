@@ -1,5 +1,6 @@
 int main(void)
 {
+	/* a local variable */
 	int i;
 
 	/* this is a for */

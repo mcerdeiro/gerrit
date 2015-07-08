@@ -1,7 +1,7 @@
 int main(void)
 {
 	/* a local variable */
-	int i;
+	 int i;
  
      		/* this is a for */
 	for(i=0; i<10; i++)

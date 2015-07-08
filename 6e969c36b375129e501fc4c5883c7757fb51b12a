@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fafc7978_5ed4bd46",
+        "filename": "main.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1002192
+      },
+      "writtenOn": "2015-07-08T18:10:46Z",
+      "side": 1,
+      "message": "a mi este comentario no me gusta",
+      "revId": "6e969c36b375129e501fc4c5883c7757fb51b12a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
